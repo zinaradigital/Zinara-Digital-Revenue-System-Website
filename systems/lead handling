@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en-KE">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Lead Acquisition & Handling — Capture & Convert Inbound Leads | Zinara</title>
+  <meta name="description" content="Stop leads from expiring. Structure capture, qualification and follow-up so inbound enquiries convert automatically.">
+  <meta name="keywords" content="lead handling systems Kenya, lead capture automation, inbound lead management, automated lead follow-up, lead qualification systems, WhatsApp lead automation Kenya">
+  
+  <link rel="canonical" href="https://zinara.co.ke/systems/lead-handling">
+  
+  <meta property="og:type" content="service">
+  <meta property="og:url" content="https://zinara.co.ke/systems/lead-handling">
+  <meta property="og:site_name" content="Zinara">
+  <meta property="og:title" content="Lead Acquisition & Handling Systems | Zinara">
+  <meta property="og:description" content="Stop leads from expiring. Automated capture, qualification, and follow-up for 100% conversion consistency.">
+  <meta property="og:image" content="https://zinara.co.ke/assets/images/og-lead-handling.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Lead Handling Systems - Stop Leads from Expiring">
+  <meta property="og:image:secure_url" content="https://zinara.co.ke/assets/images/og-lead-handling.jpg">
+  <meta property="og:locale" content="en_KE">
+  
+  <!-- Instagram optimized images -->
+  <meta property="og:image" content="https://zinara.co.ke/assets/images/instagram-lead-square.jpg">
+  <meta property="og:image:width" content="1080">
+  <meta property="og:image:height" content="1080">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@zinara">
+  <meta name="twitter:title" content="Lead Handling Systems | Zinara">
+  <meta name="twitter:description" content="Automated capture, qualification, follow-up. Stop leads from expiring.">
+  <meta name="twitter:image" content="https://zinara.co.ke/assets/images/twitter-lead-handling.jpg">
+  <meta name="twitter:image:alt" content="Lead Handling Systems">
+  
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="theme-color" content="#000000">
+  <meta name="author" content="Zinara">
+  <meta name="geo.region" content="KE">
+  <meta name="geo.placename" content="Kenya">
+  
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  
+  <link rel="stylesheet" href="/css/tokens.css">
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/main.css">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Lead Acquisition & Handling Systems",
+    "provider": {
+      "@type": "ProfessionalService",
+      "name": "Zinara",
+      "url": "https://zinara.co.ke",
+      "telephone": "+254-798-859-452",
+      "email": "info@zinara.co.ke"
+    },
+    "description": "Stop leads from expiring. Structure capture, qualification and follow-up so inbound enquiries convert automatically.",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Kenya"
+    },
+    "offers": {
+      "@type": "Offer",
+      "description": "Lead handling system implementation",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+  </script>
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
+  <header class="header">
+    <div class="container header__container">
+      <a href="/" class="header__logo">ZINARA</a>
+      <nav class="nav">
+        <ul class="nav__list">
+          <li><a href="/systems" class="nav__link">Systems</a></li>
+          <li><a href="/failure" class="nav__link">How Systems Fail</a></li>
+          <li><a href="/results" class="nav__link">Results</a></li>
+          <li><a href="/about" class="nav__link">About</a></li>
+          <li><a href="/insights" class="nav__link">Insights</a></li>
+          <li><a href="/audit" class="nav__link nav__link--cta">Request Audit</a></li>
+        </ul>
+      </nav>
+      <button class="menu-toggle" id="menu-toggle">
+        <span class="menu-toggle__bar"></span>
+        <span class="menu-toggle__bar"></span>
+        <span class="menu-toggle__bar"></span>
+      </button>
+    </div>
+    <nav class="nav-mobile" id="nav-mobile">
+      <ul class="nav-mobile__list">
+        <li><a href="/systems" class="nav-mobile__link">Systems</a></li>
+        <li><a href="/failure" class="nav-mobile__link">How Systems Fail</a></li>
+        <li><a href="/results" class="nav-mobile__link">Results</a></li>
+        <li><a href="/about" class="nav-mobile__link">About</a></li>
+        <li><a href="/insights" class="nav-mobile__link">Insights</a></li>
+        <li><a href="/contact" class="nav-mobile__link">Contact</a></li>
+        <li><a href="/audit" class="nav-mobile__link">Request Audit</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main id="main-content">
+    <section class="hero">
+      <div class="container container--narrow">
+        <p class="hero__tldr"><strong>TL;DR:</strong> Automated capture, qualification, and follow-up for inbound leads.</p>
+        <h1 class="hero__title">Lead Acquisition & Handling Systems — Capture & Convert Inbound Leads</h1>
+      </div>
+    </section>
+    
+    <section>
+      <div class="container container--narrow">
+        <h2>The Failure Point</h2>
+        <p>Leads expire before conversion.<br>
+        Manual follow-up fails consistently.<br>
+        Response time kills intent.</p>
+      </div>
+    </section>
+    
+    <section style="background: var(--color-background-alt);">
+      <div class="container container--narrow">
+        <h2>What We Structure</h2>
+        <ul>
+          <li>Multi-channel lead capture (unified)</li>
+          <li>Instant automated acknowledgment</li>
+          <li>Qualification workflows</li>
+          <li>Timed follow-up sequences</li>
+          <li>Recovery systems for cold leads</li>
+          <li>Complete lead visibility and tracking</li>
+        </ul>
+      </div>
+    </section>
+    
+    <section>
+      <div class="container container--narrow">
+        <h2>What Changes</h2>
+        <div class="before-after">
+          <div class="before-after__section before-after__section--before">
+            <h3 class="before-after__title">Before:</h3>
+            <p>Manual response<br>
+            Inconsistent follow-up<br>
+            Leads lost</p>
+          </div>
+          <div class="before-after__section before-after__section--after">
+            <h3 class="before-after__title">After:</h3>
+            <p>Automated capture<br>
+            100% follow-up<br>
+            Predictable conversion</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <section style="background: var(--color-background-alt);">
+      <div class="container container--narrow">
+        <h2>Measurable Outcomes</h2>
+        <ul>
+          <li>Response time: &lt;90 seconds</li>
+          <li>Follow-up consistency: 100%</li>
+          <li>Lead loss: &lt;5%</li>
+          <li>Conversion rate increase: 40-80%</li>
+        </ul>
+      </div>
+    </section>
+    
+    <section>
+      <div class="container container--narrow">
+        <h2>Diagnostic Checklist</h2>
+        <ul class="diagnostic-checklist">
+          <li class="diagnostic-checklist__item">Leads arrive across multiple channels</li>
+          <li class="diagnostic-checklist__item">Response time exceeds 1 hour</li>
+          <li class="diagnostic-checklist__item">Follow-up depends on memory</li>
+          <li class="diagnostic-checklist__item">Lead status is unknown</li>
+          <li class="diagnostic-checklist__item">Conversion rate is unmeasured</li>
+        </ul>
+        <p style="margin-top: var(--space-6);"><strong>If 3+ checked:</strong> Lead handling system is critical.</p>
+      </div>
+    </section>
+    
+    <section style="background: var(--color-background-alt);">
+      <div class="container container--narrow">
+        <div class="related-links">
+          <h2 class="related-links__title">Related Systems</h2>
+          <ul class="related-links__list">
+            <li class="related-links__item">
+              <a href="/systems/workflow-automation" class="related-links__link">Workflow Automation</a> — Automate capture and follow-up
+            </li>
+            <li class="related-links__item">
+              <a href="/systems/revenue-infrastructure" class="related-links__link">Revenue Infrastructure</a> — Map conversion paths
+            </li>
+            <li class="related-links__item">
+              <a href="/systems/communication-brand-web" class="related-links__link">Communication Systems</a> — Unify all channels
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <section>
+      <div class="container container--narrow text-center">
+        <h2>Start With Diagnosis</h2>
+        <p style="margin-top: var(--space-8);">
+          <a href="/audit" class="btn btn--primary btn--lg" data-event="cta_audit_lead_handling">Request Revenue Recovery Audit</a>
+        </p>
+      </div>
+    </section>
+  </main>
+  
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <h3 class="footer__section-title">Zinara</h3>
+          <p style="color: var(--color-secondary-light);">We diagnose where revenue fails after first contact and rebuild the systems that make it predictable.</p>
+          <p style="color: var(--color-secondary-light); margin-top: var(--space-4);">
+            <strong>Email:</strong> info@zinara.co.ke<br>
+            <strong>Phone:</strong> +254 798 859 452
+          </p>
+        </div>
+        <div>
+          <h4 class="footer__section-title">Services</h4>
+          <ul class="footer__list">
+            <li><a href="/audit" class="footer__link">Revenue Recovery Audit</a></li>
+            <li><a href="/systems/workflow-automation" class="footer__link">Workflow Automation</a></li>
+            <li><a href="/systems/revenue-infrastructure" class="footer__link">Revenue Infrastructure</a></li>
+            <li><a href="/systems/lead-handling" class="footer__link">Lead Handling</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer__section-title">Company</h4>
+          <ul class="footer__list">
+            <li><a href="/about" class="footer__link">About</a></li>
+            <li><a href="/results" class="footer__link">Results</a></li>
+            <li><a href="/contact" class="footer__link">Contact</a></li>
+            <li><a href="/privacy" class="footer__link">Privacy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p>&copy; 2025 Zinara. Revenue Systems Company. Kenya & East Africa.</p>
+      </div>
+    </div>
+  </footer>
+  
+  <div class="chatbot" id="chatbot">
+    <button class="chatbot__toggle" id="chatbot-toggle">
+      <span style="font-size: 24px;">💬</span>
+    </button>
+    <div class="chatbot__window" id="chatbot-window">
+      <div class="chatbot__header">Revenue Diagnostic Assistant</div>
+      <div class="chatbot__messages" id="chatbot-messages">
+        <p style="color: var(--color-text-muted); font-size: var(--font-size-sm);"><strong>Assistant:</strong> How can I help diagnose your revenue system today?</p>
+      </div>
+      <div class="chatbot__input-area">
+        <input type="text" class="chatbot__input" id="chatbot-input" placeholder="Type your message...">
+        <button class="chatbot__send" id="chatbot-send">Send</button>
+      </div>
+    </div>
+  </div>
+  
+  <script src="/js/navigation.js" defer></script>
+  <script src="/js/chatbot.js" defer></script>
+  <script src="/js/analytics.js" defer></script>
+</body>
+</html>
